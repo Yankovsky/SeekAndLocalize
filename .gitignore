@@ -1,0 +1,8 @@
+# Lines starting with '#' are considered comments.
+# Ignore build files
+Debug
+Release
+#Ignore suo file
+*.suo
+#Ignore temporary git backup files
+*.bak
